@@ -13,12 +13,15 @@ This organization is created for sharing hands on resources to developed skills 
 ## SW Skills for use facing systems
 
 * [Front End Developer Roadmap]([https://github.com/swskills/developer-roadmap/tree/master)
-* [Data Engineer Roadmap](https://github.com/swskills/data-engineer-roadmap)
 
 
 
 ## Common Skills for all kind of systems
 
+* [Data Engineer Roadmap](https://github.com/swskills/data-engineer-roadmap)
+* [Developing Deep Learning Models](https://github.com/swskills/deeplearning-models)
+* [LLM from Scratch in PyTorch](https://github.com/swskills/LLMs-from-scratch)
+* [Security: Bug Bounty Hunter's Getting Started Resources](https://github.com/swskills/Resources-for-Beginner-Bug-Bounty-Hunters)
 
 ## Degree like roadmaps for baseline skills
 
